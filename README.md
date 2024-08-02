@@ -35,9 +35,12 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 <p>&emsp;&emsp;嗨，你好，我是打铁匠老哥。热爱编程、摄影、旅行，文学消费者。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，立志能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;认清生活真相之后依然热爱它、追逐它，认真享受不一样的每一天。</p>
+<p>&emsp;&emsp;"Your time is limited, don't waste it living someone else's life." - Steve Jobs.  </p>
 
 </div>
+<hr/>
 <div>
+
 
 ### 🏢 Work Experience
 
@@ -51,7 +54,7 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 </div>
 
 
-<div style="display:flex">
+<div style="display:flex;justify-content:space-between">
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EugeneLau0&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
