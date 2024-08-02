@@ -24,10 +24,9 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 
 #  🙋 Hello
 
-<div align="center">
+<div align="left">
 
-<table style="width:100%">
-<tr><td>
+<div>
 
 ### 🤺 About Me
 
@@ -37,9 +36,8 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，立志能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;认清生活真相之后依然热爱它、追逐它，认真享受不一样的每一天。</p>
 
-</td></tr>
-
-<tr><td>
+</div>
+<div>
 
 ### 🏢 Work Experience
 
@@ -49,9 +47,9 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 
   - 工作岗位：Java 高级软件工程师
   - 工作内容：参与金蝶云星辰产品从0到1的开发过程
+</div>
+</div>
 
-</td></tr>
-</table>
 
 <div style="display:flex">
 
