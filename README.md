@@ -17,14 +17,16 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 -->
 <div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
-<a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=System.out.print(%22Hello%2C%20World%22);祝您天天开心!&center=true&size=26" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=EUGENE coding!&center=true&size=26" />
+
 </div>
 
 #  🙋 Hello
 
-<table>
+<div align="center">
+
+<table style="width:100%">
 <tr><td>
 
 ### 🤺 About Me
@@ -51,11 +53,14 @@ ref:https://zhuanlan.zhihu.com/p/454597068
 </td></tr>
 </table>
 
-<div align="center>
+<div style="display:flex">
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EugeneLau0&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EugeneLau0&hide_title=true&hide_border=true&layout=compact&langs_count=5&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
